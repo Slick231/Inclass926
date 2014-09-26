@@ -13,6 +13,7 @@ import android.widget.TextView;
 public class MyActivity extends Activity
 {
     EditText name;
+
     TextView dv;
 
     EditText age;
